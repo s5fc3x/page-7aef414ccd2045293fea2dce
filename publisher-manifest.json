@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "80cc60b826c1a004683eb135",
+  "owner": "s5fc3x",
+  "repo": "page-7aef414ccd2045293fea2dce",
+  "title": "翻墙机场(GFWAirPort)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7aef414ccd2045293fea2dce",
+      "a": "翻墙机场(GFWAirPort)",
+      "b": "机场官网线路发布页",
+      "entity": "翻墙机场(GFWAirPort)",
+      "brand": "翻墙机场(GFWAirPort)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ededbcf595bbd2cbdbb74b53fd2a59432bc896cd7b9588ecb390ba313aaa3312",
+      "content": {
+        "primary_entity": "翻墙机场(GFWAirPort)",
+        "keyword1": "翻墙机场(GFWAirPort)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，面向中文用户提供多地区节点订阅服务，按流量与设备数量划分基础版、旗舰版和团队版三档套餐。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并加入 IPLC 专线；团队版每月 1000GB、支持 20 台设备。订阅按周期付费，年付方案在月付价格基础上有所优惠，用户可根据上网设备数量与流量消耗选择合适档位，并通过常用客户端导入订阅地址完成配置。",
+          "AI_HERO_SUBTITLE": "多设备订阅与套餐选择参考",
+          "AI_HERO_INTRO": "翻墙机场(GFWAirPort)提供不同流量与设备数量的订阅套餐，用于满足个人多终端或小团队的上网需求。三档套餐覆盖 100GB 到 1000GB 月流量，设备数从 3 台到 20 台不等，支持年付周期。选择时先确认常用设备数量，再对照流量上限，按需订阅即可。",
+          "AI_VISUAL_TITLE": "翻墙机场多档订阅",
+          "AI_HIGHLIGHT_1": "三档订阅适配设备数量",
+          "AI_HIGHLIGHT_2": "年付周期节省订阅开支",
+          "AI_HIGHLIGHT_3": "多平台客户端导入订阅",
+          "AI_FEATURES_TITLE": "订阅与套餐要点",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量和订阅周期三个角度，说明翻墙机场(GFWAirPort)订阅前的准备事项。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，先数清常用手机电脑再选档。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "100GB、300GB、1000GB 三档月流量，轻度浏览选基础版，多设备追剧可考虑旗舰版。",
+          "AI_FEATURE_TITLE_3": "年付周期更划算",
+          "AI_FEATURE_TEXT_3": "三个套餐均提供年付方案，基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_CLIENTS_TITLE": "常用客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择客户端，导入订阅后按客户端文档配置即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，流量与设备数依次递增，按年付均有优惠，可对照自己的设备数量与月流量需求选择合适的套餐。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "按选择套餐、核对适配、导入订阅三步完成配置，具体操作以客户端文档为准。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "查看基础版、旗舰版、团队版的流量与设备数差异，确认自己的使用场景后选定档位。",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TEXT_2": "确认常用设备数量和系统平台是否在所选套餐支持范围内，避免设备超出限制。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按所用客户端文档提示导入订阅地址，完成节点选择与基础连接设置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三个套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "先看设备数量：3 台以内选基础版，5 台左右选旗舰版，20 台可选团队版。再对照月流量，基础版 100GB 适合轻度使用，旗舰版 300GB 适合日常多设备，团队版 1000GB 适合多人共用。",
+          "AI_FAQ_QUESTION_2": "套餐支持哪些设备？",
+          "AI_FAQ_ANSWER_2": "套餐按同时在线的设备数量区分，具体可用的设备类型取决于所选客户端。手机、电脑、平板等常用终端可在对应系统中选择客户端，并按文档导入订阅使用。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按 ¥15、¥35、¥85 三档按月计费，年付则分别按 ¥150、¥350、¥850 一次性支付一年，折算每月费用更低。流量和设备权益在对应套餐内保持一致。",
+          "AI_FAQ_QUESTION_4": "订阅地址怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "在所用客户端中找到订阅或配置导入入口，粘贴订阅地址后更新节点列表，再选择节点连接。不同客户端的菜单名称和位置不完全相同，按对应文档操作即可。",
+          "AI_FAQ_QUESTION_5": "流量用完后可以升级套餐吗？",
+          "AI_FAQ_ANSWER_5": "套餐按流量档位区分，当月流量接近上限时可根据设备数量和用量考虑改选更高一档。具体升级方式与生效时间可参考订阅说明或联系支持渠道确认。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连接",
+          "AI_CLOSING_TEXT": "对照设备数量与月流量需求，从基础版、旗舰版、团队版中选定档位，按客户端文档导入订阅即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zlwcdq.cn",
+    "host": "zlwcdq.cn"
+  },
+  "file_hashes": {
+    "index.html": "0641c11ea5248bbdaf2335c92daf32dba1760bed06432fd514e82ef293b6e15d",
+    "sitemap.xml": "9ef1f3e9c55688994ad382e0dba130dbd82157de994b26d6638c5cb6485b3f99",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dbf6ff685f17c40771b9ef6e29ce1fc6612da5db1066bd49fbe0b8dd15a93819",
+    "robots.txt": "aa4d192cd8860dc9c322e7b491e86fd4b9473637d7a8a1d21dd0881ddc323ea9",
+    "effe7da50b3b42b4905d3957d33b3487.txt": "513509dde69fee5af1f2a20f97cb4bd72952ac308e9a12bb7965873e48e853b7"
+  },
+  "revision": "7cdb43f2396a26db66098f8661ffb25b766db70c28ac63d478f5bbb21f54fd50"
+}
